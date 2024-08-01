@@ -1,7 +1,4 @@
 
-# DIY-Astra
-
-DIY-Astra is a Flask application that utilizes computer vision and natural language processing to create an interactive AI assistant. The application captures live video feed from a webcam, analyzes the captured images using the Google AI API, and generates text responses based on the visual input. The generated text responses are then converted to audio using the ElevenLabs API and played back to the user.
 
 ## Features
 - Live video feed capture from the webcam
